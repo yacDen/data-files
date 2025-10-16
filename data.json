@@ -1,6 +1,0 @@
-{
-"Mots" : [
-  {"id":1,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/das_flugzeug.jpg","mot":"Das Flugzeug","plural":"Flugzeuge","francis":"l'avion","anglais":"the aircraft","arabe":"الطائرة"},
-{"id":2,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/der_zug.jpg","mot":"Der Zug","plural":"Züge","francis":"le train","anglais":"the train","arabe":"القطار"}
-]
-}
