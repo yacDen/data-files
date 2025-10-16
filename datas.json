@@ -5,7 +5,7 @@
   {"id":3,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/der_Neffe.jpg","mot":"Der Neffe","plural":"Neffen","francis":"le neveu","anglais":"the nephew","arabe":"ابن الأخ"},
   {"id":4,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_nichte.jpg","mot":"Die Nichte","plural":"Nichten","francis":"La nièce","anglais":"The niece","arabe":"اابنة الاخ"},
   {"id":5,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Der_schwiegervater.jpg","mot":"Der Schwiegervater","plural":"Schwiegerväter","francis":"Le beau-père","anglais":"The father in law","arabe":"اوالد الزوج"},
-  {"id":6,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_schwiegermutter.jpg","mot":"Die Schwiegermutter","plural":"Schwiegermütter","francis":"la belle-mère","anglais":"the mother in law","arabe":"حماتها"},
+  {"id":6,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/die_schwiegermutter.jpg","mot":"Die Schwiegermutter","plural":"Schwiegermütter","francis":"la belle-mère","anglais":"the mother in law","arabe":"حماتها"},
   {"id":7,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Der_schwiegersohn.jpg","mot":"Der Schwiegersohn","plural":"Schwiegersöhne","francis":"le gendre","anglais":"the son in law","arabe":"صهره"},
   {"id":8,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_schwiegertochter.jpg","mot":"Die Schwiegertochter","plural":"Schwiegertöchter","francis":"la belle-fille","anglais":"the daughter in law","arabe":"زوجة الابن"}
 ]
