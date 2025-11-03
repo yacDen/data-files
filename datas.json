@@ -23,26 +23,43 @@
     {
       "name": "die Küche",
       "Mots": [
-        {"id": 1,"imageUrl": "","mot": "der Löffel","plural": "die Löffel","francis": "la cuillère","anglais": "","arabe": ""},
-        {"id": 2,"imageUrl": "","mot": "die Gabel","plural": "die Gabeln","francis": "la fourchette","anglais": "","arabe": ""},
-        {"id": 3,"imageUrl": "","mot": "das Messer","plural": "die Messer","francis": "le couteau","anglais": "","arabe": ""},
-        {"id": 4,"imageUrl": "","mot": "der Teller","plural": "die Teller","francis": "l'assiette","anglais": "","arabe": ""},
-        {"id": 5,"imageUrl": "","mot": "die Tasse","plural": "die Tassen","francis": "la tasse","anglais": "","arabe": ""},
-        {"id": 6,"imageUrl": "","mot": "der Pfannenwender","plural": "die Pfannenwender","francis": "la spatule","anglais": "the spatula","arabe": "ملعقة القلي"},
-        {"id": 7,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 8,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 9,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 10,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 11,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 12,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 13,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 14,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 15,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 16,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 17,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 18,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 19,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
-        {"id": 20,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""}
+        {
+  "id": 20,
+  "nom": "Outils de cuisine",
+  "mots": [
+    { "id": 1, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/outils-cuisine/loeffel.jpg", "mot": "der Löffel", "plural": "die Löffel", "francis": "la cuillère", "anglais": "spoon", "arabe": "الملعقة" },
+    { "id": 2, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/gabel.jpg", "mot": "die Gabel", "plural": "die Gabeln", "francis": "la fourchette", "anglais": "fork", "arabe": "الشوكة" },
+    { "id": 3, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/messer.jpg", "mot": "das Messer", "plural": "die Messer", "francis": "le couteau", "anglais": "knife", "arabe": "السكين" },
+    { "id": 4, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/teller.jpg", "mot": "der Teller", "plural": "die Teller", "francis": "l’assiette", "anglais": "plate", "arabe": "الصحن" },
+    { "id": 5, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/glas.jpg", "mot": "das Glas", "plural": "die Gläser", "francis": "le verre", "anglais": "glass", "arabe": "الكوب" },
+    { "id": 6, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/tasse.jpg", "mot": "die Tasse", "plural": "die Tassen", "francis": "la tasse", "anglais": "cup", "arabe": "الفنجان" },
+    { "id": 7, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/schuessel.jpg", "mot": "die Schüssel", "plural": "die Schüsseln", "francis": "le bol / saladier", "anglais": "bowl", "arabe": "الوعاء" },
+    { "id": 8, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/topf.jpg", "mot": "der Topf", "plural": "die Töpfe", "francis": "la casserole", "anglais": "pot", "arabe": "القدر" },
+    { "id": 9, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/pfanne.jpg", "mot": "die Pfanne", "plural": "die Pfannen", "francis": "la poêle", "anglais": "pan", "arabe": "المقلاة" },
+    { "id": 10, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/sieb.jpg", "mot": "das Sieb", "plural": "die Siebe", "francis": "la passoire", "anglais": "sieve / strainer", "arabe": "المصفاة" },
+    { "id": 11, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/schneebesen.jpg", "mot": "der Schneebesen", "plural": "die Schneebesen", "francis": "le fouet", "anglais": "whisk", "arabe": "الخفاق" },
+    { "id": 12, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/schneidebrett.jpg", "mot": "das Schneidebrett", "plural": "die Schneidebretter", "francis": "la planche à découper", "anglais": "cutting board", "arabe": "لوح التقطيع" },
+    { "id": 13, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/kochloeffel.jpg", "mot": "der Kochlöffel", "plural": "die Kochlöffel", "francis": "la cuillère en bois", "anglais": "wooden spoon", "arabe": "الملعقة الخشبية" },
+    { "id": 14, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/dosenoeffner.jpg", "mot": "der Dosenöffner", "plural": "die Dosenöffner", "francis": "l’ouvre-boîte", "anglais": "can opener", "arabe": "فتّاحة العلب" },
+    { "id": 15, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/korkenzieher.jpg", "mot": "der Korkenzieher", "plural": "die Korkenzieher", "francis": "le tire-bouchon", "anglais": "corkscrew", "arabe": "فتّاحة الزجاجات" },
+    { "id": 16, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/schaeler.jpg", "mot": "der Schäler", "plural": "die Schäler", "francis": "l’éplucheur", "anglais": "peeler", "arabe": "المقشر" },
+    { "id": 17, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/reibe.jpg", "mot": "die Reibe", "plural": "die Reiben", "francis": "la râpe", "anglais": "grater", "arabe": "المبشرة" },
+    { "id": 18, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/mixer.jpg", "mot": "der Mixer", "plural": "die Mixer", "francis": "le mixeur", "anglais": "blender / mixer", "arabe": "الخلاط" },
+    { "id": 19, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/kuechenwaage.jpg", "mot": "die Küchenwaage", "plural": "die Küchenwaagen", "francis": "la balance de cuisine", "anglais": "kitchen scale", "arabe": "ميزان المطبخ" },
+    { "id": 20, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/backofen.jpg", "mot": "der Backofen", "plural": "die Backöfen", "francis": "le four", "anglais": "oven", "arabe": "الفرن" },
+    { "id": 21, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/mikrowelle.jpg", "mot": "die Mikrowelle", "plural": "die Mikrowellen", "francis": "le micro-ondes", "anglais": "microwave", "arabe": "الميكروويف" },
+    { "id": 22, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/kuehlschrank.jpg", "mot": "der Kühlschrank", "plural": "die Kühlschränke", "francis": "le réfrigérateur", "anglais": "refrigerator", "arabe": "الثلاجة" },
+    { "id": 23, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/spuele.jpg", "mot": "die Spüle", "plural": "die Spülen", "francis": "l’évier", "anglais": "sink", "arabe": "المغسلة" },
+    { "id": 24, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/wasserkocher.jpg", "mot": "der Wasserkocher", "plural": "die Wasserkocher", "francis": "la bouilloire", "anglais": "kettle", "arabe": "الغلاية" },
+    { "id": 25, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/toaster.jpg", "mot": "der Toaster", "plural": "die Toaster", "francis": "le grille-pain", "anglais": "toaster", "arabe": "المحمصة" },
+    { "id": 26, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/herd.jpg", "mot": "der Herd", "plural": "die Herde", "francis": "la cuisinière", "anglais": "stove", "arabe": "الموقد" },
+    { "id": 27, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/tablett.jpg", "mot": "das Tablett", "plural": "die Tabletts", "francis": "le plateau", "anglais": "tray", "arabe": "الصينية" },
+    { "id": 28, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/tuch.jpg", "mot": "das Tuch", "plural": "die Tücher", "francis": "le torchon", "anglais": "cloth / towel", "arabe": "المنديل / المنشفة" },
+    { "id": 29, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/messbecher.jpg", "mot": "der Messbecher", "plural": "die Messbecher", "francis": "le verre doseur", "anglais": "measuring cup", "arabe": "كوب القياس" },
+    { "id": 30, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/zange.jpg", "mot": "die Zange", "plural": "die Zangen", "francis": "la pince de cuisine", "anglais": "kitchen tongs", "arabe": "الملقط" }
+  ]
+}
+
       ]
     }
   ]
