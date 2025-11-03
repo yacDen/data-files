@@ -18,6 +18,32 @@
            {"id":7,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Der_schwiegersohn.jpg","mot":"Der Schwiegersohn","plural":"Schwiegersöhne","francis":"le gendre","anglais":"the son in law","arabe":"صهره"},
            {"id":8,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_schwiegertochter.jpg","mot":"Die Schwiegertochter","plural":"Schwiegertöchter","francis":"la belle-fille","anglais":"the daughter in law","arabe":"زوجة الابن"}
          ]
-     }    
+     },
+
+    {
+      "name": "die Küche",
+      "Mots": [
+        {"id": 1,"imageUrl": "","mot": "der Löffel","plural": "die Löffel","francis": "la cuillère","anglais": "","arabe": ""},
+        {"id": 2,"imageUrl": "","mot": "die Gabel","plural": "die Gabeln","francis": "la fourchette","anglais": "","arabe": ""},
+        {"id": 3,"imageUrl": "","mot": "das Messer","plural": "die Messer","francis": "le couteau","anglais": "","arabe": ""},
+        {"id": 4,"imageUrl": "","mot": "der Teller","plural": "die Teller","francis": "l'assiette","anglais": "","arabe": ""},
+        {"id": 5,"imageUrl": "","mot": "die Tasse","plural": "die Tassen","francis": "la tasse","anglais": "","arabe": ""},
+        {"id": 6,"imageUrl": "","mot": "der Pfannenwender","plural": "die Pfannenwender","francis": "la spatule","anglais": "the spatula","arabe": "ملعقة القلي"},
+        {"id": 7,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 8,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 9,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 10,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 11,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 12,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 13,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 14,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 15,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 16,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 17,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 18,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 19,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""},
+        {"id": 20,"imageUrl": "","mot": "","plural": "","francis": "","anglais": "","arabe": ""}
+      ]
+    }
   ]
 }
