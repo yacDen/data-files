@@ -1,4 +1,5 @@
-{
+[
+  {
   "numeros": [
       {"id":1,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_Zahlen/11.jpg","mot":"eins","francais":"un","anglais":"one","arabe":"واحد","audioUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/audio/Die_Zahlen/1.mp3"},
       {"id":2,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_Zahlen/22.jpg","mot":"zwei","francais":"deux","anglais":"two","arabe":"اثنان","audioUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/audio/Die_Zahlen/2.mp3"},
@@ -8,3 +9,4 @@
     ]
 
 }
+]
