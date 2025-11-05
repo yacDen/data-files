@@ -16,14 +16,5 @@
            {"id":7,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Der_schwiegersohn.jpg","mot":"Der Schwiegersohn","plural":"Schwiegersöhne","francis":"le gendre","anglais":"the son in law","arabe":"صهره"},
            {"id":8,"imageUrl":"https://raw.githubusercontent.com/yacDen/data-files/main/image/Die_schwiegertochter.jpg","mot":"Die Schwiegertochter","plural":"Schwiegertöchter","francis":"la belle-fille","anglais":"the daughter in law","arabe":"زوجة الابن"}
          ]
-     },
-
-    {
-      "name": "die Küche",
-      "Mots": [
-        { "id": 1, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/outils-cuisine/loeffel.jpg", "mot": "der Löffel", "plural": "die Löffel", "francis": "la cuillère", "anglais": "spoon", "arabe": "الملعقة" },
-        { "id": 2, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/gabel.jpg", "mot": "die Gabel", "plural": "die Gabeln", "francis": "la fourchette", "anglais": "fork", "arabe": "الشوكة" },
-        { "id": 3, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/messer.jpg", "mot": "das Messer", "plural": "die Messer", "francis": "le couteau", "anglais": "knife", "arabe": "السكين" }
-      ]
-    }
+     }
   ]
