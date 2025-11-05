@@ -1,6 +1,4 @@
-{
-  "categories" : 
-  [   
+[   
      {
         "name" : "Transport",
         "Mots" : [
@@ -29,4 +27,3 @@
       ]
     }
   ]
-}
