@@ -1,8 +1,4 @@
 [
-  {
-  "alphabet" : [
-        {"id": 1, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/Das_Alphabet/aa.jpg", "mot": "A", "francais": "a", "arabe": "آ", "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-A.ogg"},
-        {"id": 2, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/Das_Alphabet/bb.jpg", "mot": "B", "francais": "bé", "arabe": "بي", "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-B.ogg"}
-    ]
-}
+   {"id": 1, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/Das_Alphabet/aa.jpg", "mot": "A", "francais": "a", "arabe": "آ", "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-A.ogg"},
+   {"id": 2, "imageUrl": "https://raw.githubusercontent.com/yacDen/data-files/main/image/Das_Alphabet/bb.jpg", "mot": "B", "francais": "bé", "arabe": "بي", "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-B.ogg"}
 ]
